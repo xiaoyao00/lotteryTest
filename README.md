@@ -27,7 +27,7 @@ Pick5	35	06030
 ################################
 #### Outputs from program   ####
 ################################
-costumer:0 wants 3 tickets: 
+costumer:0 wants 3 tickets:
  choose: Pick4  bought 3412 
  choose: Pick5  bought 12758 
  choose: Pick4  bought 7326 
